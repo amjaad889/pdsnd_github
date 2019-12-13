@@ -1,6 +1,6 @@
 ### Date created
 11/16/2019 
-Day: Saturday
+Day: (Saturday)
 
 ### Project Title
 pdsnd_github
