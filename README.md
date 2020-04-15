@@ -6,9 +6,10 @@
 pdsnd_github
 
 ### Description
-The project analysis Bikeshare data for 3 cities (New York, Washington, and Chicago) By programming language python 
-The project will ask the user to choose a city first, then decide if would like to filter data or not.
-
+The project analyzes Bikeshare data for three cities (New York, Washington, and Chicago)
+ Using the programming language ..
+python The project will ask the user to choose the city first, then decide whether he wants to filter the data
+ or not.
 ### Files used
 (code) bikeshare.py
 
